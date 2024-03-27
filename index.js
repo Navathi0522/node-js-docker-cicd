@@ -23,8 +23,8 @@ app.get('/', (req, res) => {
             <title>Welcome to Cloud aseem Youtube channel ,Please share & subscribe , Thank you </title>
         </head>
         <body>
-            <h1>Welcome to Cloud aseem Youtube channel ,Please share & subscribe , Thank you very much for 605 subscribers , keep loving , thankyou <3 </h1>
-            <p>Don't forget to subscribe & share with friends</p>
+            <h1>Welcome to DevOps Project1 with Node Js App CI CD Deployment From GitHub to EC2-Jenkins  </h1>
+            <p>By Praveen Kumar N</p>
         </body>
         </html>
     `);
